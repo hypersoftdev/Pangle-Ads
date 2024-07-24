@@ -2,23 +2,22 @@
 Pangle Interstitial Ad and Native.
 
 
-Contributing
+# Contributing
 
 We welcome feedback, translations, and code contributions!❤️
 
-How to Use
+# How to Use
 
 just add sdk to your project
 
-Performance
+# Performance
 
 Smouth and quality Performance
 
-Donation
+# Donation
 
 If this project help you reduce time to develop, you can give me a cup of coffee :)😉
 
-paypal
 
 
 ![](https://github.com/hypersoftdev/Pangle-Ads/blob/master/Screens/screen1.png?raw=true)
