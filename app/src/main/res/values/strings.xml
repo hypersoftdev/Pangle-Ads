@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PangleAds</string>
+    <string name="install">Install</string>
+    <string name="ad">Ad</string>
+    <string name="test_ads">Test Ads</string>
+    <string name="test_ads_to_you">Test Ads to you</string>
+    <string name="loading_pangle_native">Loading Pangle Native...</string>
+    <string name="please_wait_interstitial_is_loading">Please Wait interstitial is loading...</string>
+    <string name="show_ad">Show Ad</string>
+</resources>
